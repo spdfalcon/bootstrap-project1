@@ -1,0 +1,8 @@
+body{
+    background: #fdfdfd url(img/back.jpg)center center no-repeat fixed;
+    overflow-x: hidden;
+}
+.header1{
+    height: 55vh;
+    background: rgba(255, 255, 255, 0);
+}
